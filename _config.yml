@@ -1,0 +1,15 @@
+# Site settings
+title: Sounds For Hunger
+email: mail@soundsforhunger.com
+description: Sounds for Hunger is a unique musical movement in which all proceeds from events go to end world hunger.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://soundsforhunger.com" # the base hostname & protocol for your site
+
+twitter_username: soundsforhunger
+facebook_pagename: soundsforhunger
+instagram_username: soundsforhunger
+
+gofundme_link: https://www.gofundme.com/soundsforhunger
+
+# Build settings
+markdown: kramdown
