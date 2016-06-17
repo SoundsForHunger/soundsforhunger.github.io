@@ -212,6 +212,13 @@ header {
     }
 
 }
+
+a.fix-email {
+  @media (min-width: 1200px) {
+    margin-left: 50px;
+  }
+}
+
 #mc_embed_signup {
 
 }
