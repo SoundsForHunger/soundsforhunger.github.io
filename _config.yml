@@ -13,3 +13,6 @@ gofundme_link: https://www.gofundme.com/soundsforhunger
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
