@@ -4,6 +4,7 @@ email: mail@soundsforhunger.com
 description: Sounds for Hunger is a unique musical movement in which all proceeds from events go to end world hunger.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://soundsforhunger.com" # the base hostname & protocol for your site
+image: img/facebook.png
 
 twitter_username: soundsforhunger
 facebook_pagename: soundsforhunger
